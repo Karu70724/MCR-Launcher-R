@@ -2,23 +2,23 @@
   "version": "1.0.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
-    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    "clientId": "858169306234748948",
+    "smallImageText": "수성온라인",
+    "smallImageKey": "seal-circle"
   },
   "servers": [
     {
       "id": "Mercury-1.12.2",
-      "name": "Mercury (Minecraft 1.12.2)",
-      "description": "Mercury Running Minecraft 1.12.2 (Forge v14.23.5.2854)",
+      "name": "수성온라인",
+      "description": "제 2의 현실, 수성온라인",
       "icon": null,
       "version": "1.0.0",
       "address": "MCRONLINE.KRO.KR:25565",
       "minecraftVersion": "1.12.2",
       "discord": {
-        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+        "shortId": "",
+        "largeImageText": "제 2의 현실",
+        "largeImageKey": "server-prod"
       },
       "mainServer": true,
       "autoconnect": true,
