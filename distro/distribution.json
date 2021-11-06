@@ -30,7 +30,7 @@
           "artifact": {
             "size": 4464068,
             "MD5": "ff6f0650ff84d4c8e03da9a4f536d9e1",
-            "url": "https://github.com/Karu70724/MCR-Launcher-R/tree/main/repo/lib/net/minecraftforge/forge/1.12.2-14.23.5.2854/forge-1.12.2-14.23.5.2854-universal.jar"
+            "url": "https://raw.githubusercontent.com/karu70724/MCR-Launcher-R/master/distro/repo/lib/net/minecraftforge/forge/1.12.2-14.23.5.2854/forge-1.12.2-14.23.5.2854-universal.jar"
           },
           "subModules": [
             {
@@ -40,7 +40,7 @@
               "artifact": {
                 "size": 10789,
                 "MD5": "f8ad81d96980cbb999a817a5665134ff",
-                "url": "https://github.com/Karu70724/MCR-Launcher-R/tree/main/repo/versions/1.12.2-forge-14.23.5.2854/1.12.2-forge-14.23.5.2854.json"
+                "url": "https://raw.githubusercontent.com/karu70724/MCR-Launcher-R/master/distro/repo/versions/1.12.2-forge-14.23.5.2854/1.12.2-forge-14.23.5.2854.json"
               }
             },
             {
@@ -50,7 +50,7 @@
               "artifact": {
                 "size": 387903,
                 "MD5": "fe5f20404ccdee9769ef05dc4b47ba98",
-                "url": "https://github.com/Karu70724/MCR-Launcher-R/tree/main/repo/lib/org/ow2/asm/asm-debug-all/5.2/asm-debug-all-5.2.jar"
+                "url": "https://raw.githubusercontent.com/karu70724/MCR-Launcher-R/master/distro/repo/lib/org/ow2/asm/asm-debug-all/5.2/asm-debug-all-5.2.jar"
               }
             },
             {
@@ -60,7 +60,7 @@
               "artifact": {
                 "size": 32999,
                 "MD5": "934b2d91c7c5be4a49577c9e6b40e8da",
-                "url": "https://github.com/Karu70724/MCR-Launcher-R/tree/main/repo/lib/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar"
+                "url": "https://raw.githubusercontent.com/karu70724/MCR-Launcher-R/master/distro/repo/lib/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar"
               }
             },
             {
@@ -70,7 +70,7 @@
               "artifact": {
                 "size": 614590,
                 "MD5": "4c20d2879ed2bd75a0771ce29e89f6b0",
-                "url": "https://github.com/Karu70724/MCR-Launcher-R/tree/main/repo/lib/org/jline/jline/3.5.1/jline-3.5.1.jar"
+                "url": "https://raw.githubusercontent.com/karu70724/MCR-Launcher-R/master/distro/repo/lib/org/jline/jline/3.5.1/jline-3.5.1.jar"
               }
             },
             {
@@ -80,7 +80,7 @@
               "artifact": {
                 "size": 2514991,
                 "MD5": "541440ca0819ebada47d6d1a8b3ee9e1",
-                "url": "https://github.com/Karu70724/MCR-Launcher-R/tree/main/repo/lib/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar"
+                "url": "https://raw.githubusercontent.com/karu70724/MCR-Launcher-R/master/distro/repo/lib/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar"
               }
             },
             {
@@ -90,7 +90,7 @@
               "artifact": {
                 "size": 219554,
                 "MD5": "3aaf3c6e76a68e732c17d4a7e9877d81",
-                "url": "https://github.com/Karu70724/MCR-Launcher-R/tree/main/repo/lib/com/typesafe/config/1.2.1/config-1.2.1.jar"
+                "url": "https://raw.githubusercontent.com/karu70724/MCR-Launcher-R/master/distro/repo/lib/com/typesafe/config/1.2.1/config-1.2.1.jar"
               }
             },
             {
@@ -100,7 +100,7 @@
               "artifact": {
                 "size": 58018,
                 "MD5": "f5e79398daa1806f8b17311a3c782723",
-                "url": "https://github.com/Karu70724/MCR-Launcher-R/tree/main/repo/lib/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar"
+                "url": "https://raw.githubusercontent.com/karu70724/MCR-Launcher-R/master/distro/repo/lib/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar"
               }
             },
             {
@@ -110,7 +110,7 @@
               "artifact": {
                 "size": 13449765,
                 "MD5": "06030143bf86ca896fb6ccfd679b5760",
-                "url": "https://github.com/Karu70724/MCR-Launcher-R/tree/main/repo/lib/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar"
+                "url": "https://raw.githubusercontent.com/karu70724/MCR-Launcher-R/master/distro/repo/lib/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar"
               }
             },
             {
@@ -120,7 +120,7 @@
               "artifact": {
                 "size": 25365,
                 "MD5": "004d7007abbcee858d3ca2c3ccbcbaab",
-                "url": "https://github.com/Karu70724/MCR-Launcher-R/tree/main/repo/lib/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2_mc/scala-continuations-library_2.11-1.0.2_mc.jar"
+                "url": "https://raw.githubusercontent.com/karu70724/MCR-Launcher-R/master/distro/repo/lib/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2_mc/scala-continuations-library_2.11-1.0.2_mc.jar"
               }
             },
             {
@@ -130,7 +130,7 @@
               "artifact": {
                 "size": 206575,
                 "MD5": "359c4a6743a082c689039482eed78670",
-                "url": "https://github.com/Karu70724/MCR-Launcher-R/tree/main/repo/lib/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2_mc/scala-continuations-plugin_2.11.1-1.0.2_mc.jar"
+                "url": "https://raw.githubusercontent.com/karu70724/MCR-Launcher-R/master/distro/repo/lib/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2_mc/scala-continuations-plugin_2.11.1-1.0.2_mc.jar"
               }
             },
             {
@@ -140,7 +140,7 @@
               "artifact": {
                 "size": 5538130,
                 "MD5": "1d88f665219e6006c5dd82d71c525c0f",
-                "url": "https://github.com/Karu70724/MCR-Launcher-R/tree/main/repo/lib/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar"
+                "url": "https://raw.githubusercontent.com/karu70724/MCR-Launcher-R/master/distro/repo/lib/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar"
               }
             },
             {
@@ -150,7 +150,7 @@
               "artifact": {
                 "size": 419701,
                 "MD5": "4e694499c965af4a02599c99d4f0b196",
-                "url": "https://github.com/Karu70724/MCR-Launcher-R/tree/main/repo/lib/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar"
+                "url": "https://raw.githubusercontent.com/karu70724/MCR-Launcher-R/master/distro/repo/lib/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar"
               }
             },
             {
@@ -160,7 +160,7 @@
               "artifact": {
                 "size": 4372892,
                 "MD5": "7878fac044e4e4b576bb35a77ccc34fc",
-                "url": "https://github.com/Karu70724/MCR-Launcher-R/tree/main/repo/lib/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar"
+                "url": "https://raw.githubusercontent.com/karu70724/MCR-Launcher-R/master/distro/repo/lib/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar"
               }
             },
             {
@@ -170,7 +170,7 @@
               "artifact": {
                 "size": 726500,
                 "MD5": "1009d69e4948045383f2a7a334348af5",
-                "url": "https://github.com/Karu70724/MCR-Launcher-R/tree/main/repo/lib/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar"
+                "url": "https://raw.githubusercontent.com/karu70724/MCR-Launcher-R/master/distro/repo/lib/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar"
               }
             },
             {
@@ -180,7 +180,7 @@
               "artifact": {
                 "size": 648679,
                 "MD5": "c2d7e66495afe14545c31b21e99879ef",
-                "url": "https://github.com/Karu70724/MCR-Launcher-R/tree/main/repo/lib/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar"
+                "url": "https://raw.githubusercontent.com/karu70724/MCR-Launcher-R/master/distro/repo/lib/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar"
               }
             },
             {
@@ -190,7 +190,7 @@
               "artifact": {
                 "size": 5762,
                 "MD5": "a3e3c3186e41c4a1a3027ba2bb23cdc6",
-                "url": "https://github.com/Karu70724/MCR-Launcher-R/tree/main/repo/lib/lzma/lzma/0.0.1/lzma-0.0.1.jar"
+                "url": "https://raw.githubusercontent.com/karu70724/MCR-Launcher-R/master/distro/repo/lib/lzma/lzma/0.0.1/lzma-0.0.1.jar"
               }
             },
             {
@@ -200,7 +200,7 @@
               "artifact": {
                 "size": 318956,
                 "MD5": "e5d2b7f46c4800a32f62ce75676a5710",
-                "url": "https://github.com/Karu70724/MCR-Launcher-R/tree/main/repo/lib/java3d/vecmath/1.5.2/vecmath-1.5.2.jar"
+                "url": "https://raw.githubusercontent.com/karu70724/MCR-Launcher-R/master/distro/repo/lib/java3d/vecmath/1.5.2/vecmath-1.5.2.jar"
               }
             },
             {
@@ -210,7 +210,7 @@
               "artifact": {
                 "size": 2523218,
                 "MD5": "8fc4d4e0129244f9fd39650c5f30feb2",
-                "url": "https://github.com/Karu70724/MCR-Launcher-R/tree/main/repo/lib/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar"
+                "url": "https://raw.githubusercontent.com/karu70724/MCR-Launcher-R/master/distro/repo/lib/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar"
               }
             },
             {
@@ -220,7 +220,7 @@
               "artifact": {
                 "size": 54961,
                 "MD5": "7741ebf29690ee7d9dde9cf4376347fc",
-                "url": "https://github.com/Karu70724/MCR-Launcher-R/tree/main/repo/lib/org/apache/maven/maven-artifact/3.5.3/maven-artifact-3.5.3.jar"
+                "url": "https://raw.githubusercontent.com/karu70724/MCR-Launcher-R/master/distro/repo/lib/org/apache/maven/maven-artifact/3.5.3/maven-artifact-3.5.3.jar"
               }
             },
             {
@@ -230,7 +230,7 @@
               "artifact": {
                 "size": 78175,
                 "MD5": "0a5ec84e23df9d7cfb4063bc55f2744c",
-                "url": "https://github.com/Karu70724/MCR-Launcher-R/tree/main/repo/lib/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar"
+                "url": "https://raw.githubusercontent.com/karu70724/MCR-Launcher-R/master/distro/repo/lib/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar"
               }
             }
           ]
@@ -241,8 +241,22 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2678747,
-            "url": "https://github.com/Karu70724/MCR-Launcher-R/tree/main/servers/Mercury-1.12.2/forgemods/required/Armourers-Workshop-1.12.2-0.51.0.jar",
+            "url": "https://raw.githubusercontent.com/karu70724/MCR-Launcher-R/master/distro/servers/Mercury-1.12.2/forgemods/required/Armourers-Workshop-1.12.2-0.51.0.jar",
             "MD5": "12954551f39bed840b32fd8be8fddb54"
+          }
+        },
+        {
+          "id": "guichaguri.betterfps:betterfps:1.4.5-1.10@jar",
+          "name": "BetterFps",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 149650,
+            "url": "https://raw.githubusercontent.com/karu70724/MCR-Launcher-R/master/distro/servers/Mercury-1.12.2/forgemods/optionaloff/BetterFps-1.4.5-1.10.jar",
+            "MD5": "c416fd4dddebb0442691a56724b14b67"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -251,7 +265,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2454924,
-            "url": "https://github.com/Karu70724/MCR-Launcher-R/tree/main/servers/Mercury-1.12.2/forgemods/required/cfm-6.3.0.jar",
+            "url": "https://raw.githubusercontent.com/karu70724/MCR-Launcher-R/master/distro/servers/Mercury-1.12.2/forgemods/required/cfm-6.3.0.jar",
             "MD5": "b1e5c79ed6e9e4602f25419e21497975"
           }
         },
@@ -261,7 +275,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 737407,
-            "url": "https://github.com/Karu70724/MCR-Launcher-R/tree/main/servers/Mercury-1.12.2/forgemods/required/chiselsandbits-14.33.jar",
+            "url": "https://raw.githubusercontent.com/karu70724/MCR-Launcher-R/master/distro/servers/Mercury-1.12.2/forgemods/required/chiselsandbits-14.33.jar",
             "MD5": "e056e23559965f2ebabf47aad0fe51a3"
           }
         },
@@ -271,7 +285,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 9911871,
-            "url": "https://github.com/Karu70724/MCR-Launcher-R/tree/main/servers/Mercury-1.12.2/forgemods/required/customnpcs-1.12.jar",
+            "url": "https://raw.githubusercontent.com/karu70724/MCR-Launcher-R/master/distro/servers/Mercury-1.12.2/forgemods/required/customnpcs-1.12.jar",
             "MD5": "3ab1a5c4b069d574631da5bc1880ebf7"
           }
         },
@@ -281,21 +295,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 4912890,
-            "url": "https://github.com/Karu70724/MCR-Launcher-R/tree/main/servers/Mercury-1.12.2/forgemods/required/harvestcraft-1.12.2zg.jar",
+            "url": "https://raw.githubusercontent.com/karu70724/MCR-Launcher-R/master/distro/servers/Mercury-1.12.2/forgemods/required/harvestcraft-1.12.2zg.jar",
             "MD5": "e8e1ac67accdeea50116e1e92e592397"
-          }
-        },
-        {
-          "id": "journeymap:journeymap:1.12.2-5.7.1@jar",
-          "name": "JourneyMap",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 6990968,
-            "url": "https://github.com/Karu70724/MCR-Launcher-R/tree/main/servers/Mercury-1.12.2/forgemods/optionalon/journeymap-1.12.2-5.7.1.jar",
-            "MD5": "8160b970fc14cff30dff2785bb9f964c"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -304,7 +305,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 30763,
-            "url": "https://github.com/Karu70724/MCR-Launcher-R/tree/main/servers/Mercury-1.12.2/forgemods/optionalon/koreanchat-1.12-1.9.jar",
+            "url": "https://raw.githubusercontent.com/karu70724/MCR-Launcher-R/master/distro/servers/Mercury-1.12.2/forgemods/optionalon/koreanchat-1.12-1.9.jar",
             "MD5": "91492de16021a4f7018eb5d523f45fc2"
           },
           "required": {
@@ -317,7 +318,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 173426,
-            "url": "https://github.com/Karu70724/MCR-Launcher-R/tree/main/servers/Mercury-1.12.2/forgemods/required/mcmultipart-2.5.3.jar",
+            "url": "https://raw.githubusercontent.com/karu70724/MCR-Launcher-R/master/distro/servers/Mercury-1.12.2/forgemods/required/mcmultipart-2.5.3.jar",
             "MD5": "47987d111d6f1e48403bc3cbb23f5503"
           }
         },
@@ -327,7 +328,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 27545802,
-            "url": "https://github.com/Karu70724/MCR-Launcher-R/tree/main/servers/Mercury-1.12.2/forgemods/required/mw-0.4.4.6.jar",
+            "url": "https://raw.githubusercontent.com/karu70724/MCR-Launcher-R/master/distro/servers/Mercury-1.12.2/forgemods/required/mw-0.4.4.6.jar",
             "MD5": "69cbe3bd707a5284b1af20ebf0a9b0b9"
           }
         },
@@ -337,7 +338,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 129099,
-            "url": "https://github.com/Karu70724/MCR-Launcher-R/tree/main/servers/Mercury-1.12.2/forgemods/required/obfuscate-0.4.2-mc1.12.2.jar",
+            "url": "https://raw.githubusercontent.com/karu70724/MCR-Launcher-R/master/distro/servers/Mercury-1.12.2/forgemods/required/obfuscate-0.4.2-mc1.12.2.jar",
             "MD5": "a5d3ac71ec8762fe72a91465de6d30a3"
           }
         },
@@ -347,21 +348,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2598821,
-            "url": "https://github.com/Karu70724/MCR-Launcher-R/tree/main/servers/Mercury-1.12.2/forgemods/optionalon/optifine-1.12.2_HD_U_F5.jar",
+            "url": "https://raw.githubusercontent.com/karu70724/MCR-Launcher-R/master/distro/servers/Mercury-1.12.2/forgemods/optionalon/optifine-1.12.2_HD_U_F5.jar",
             "MD5": "043ac1db6f7441ea4cf31bcb621aff0b"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "com.replaymod.core:replaymod:1.12.2-2.6.1@jar",
-          "name": "Replay Mod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 11260440,
-            "url": "https://github.com/Karu70724/MCR-Launcher-R/tree/main/servers/Mercury-1.12.2/forgemods/optionalon/replaymod-1.12.2-2.6.1.jar",
-            "MD5": "fbbd251767124aa4ffa272d293e581cf"
           },
           "required": {
             "value": false
@@ -373,7 +361,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 234311,
-            "url": "https://github.com/Karu70724/MCR-Launcher-R/tree/main/servers/Mercury-1.12.2/forgemods/optionalon/smoothfont-mc1.12.2-1.16.2.jar",
+            "url": "https://raw.githubusercontent.com/karu70724/MCR-Launcher-R/master/distro/servers/Mercury-1.12.2/forgemods/optionalon/smoothfont-mc1.12.2-1.16.2.jar",
             "MD5": "7acfe18951bf0da7ea8fb64e6f48ff8f"
           },
           "required": {
@@ -386,7 +374,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 15882,
-            "url": "https://github.com/Karu70724/MCR-Launcher-R/tree/main/servers/Mercury-1.12.2/forgemods/required/Up-4.0.jar",
+            "url": "https://raw.githubusercontent.com/karu70724/MCR-Launcher-R/master/distro/servers/Mercury-1.12.2/forgemods/required/Up-4.0.jar",
             "MD5": "ac5faaffe9b9dc04d470e7584557683e"
           }
         },
@@ -396,7 +384,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2139906,
-            "url": "https://github.com/Karu70724/MCR-Launcher-R/tree/main/servers/Mercury-1.12.2/forgemods/required/vehicle-0.44.1.jar",
+            "url": "https://raw.githubusercontent.com/karu70724/MCR-Launcher-R/master/distro/servers/Mercury-1.12.2/forgemods/required/vehicle-0.44.1.jar",
             "MD5": "276818770667c1bff569d92287c53d95"
           }
         }
