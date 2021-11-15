@@ -246,20 +246,6 @@
           }
         },
         {
-          "id": "guichaguri.betterfps:betterfps:1.4.5-1.10@jar",
-          "name": "BetterFps",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 149650,
-            "url": "https://raw.githubusercontent.com/karu70724/MCR-Launcher-R/master/distro/servers/Mercury-1.12.2/forgemods/optionaloff/BetterFps-1.4.5-1.10.jar",
-            "MD5": "c416fd4dddebb0442691a56724b14b67"
-          },
-          "required": {
-            "value": false,
-            "def": false
-          }
-        },
-        {
           "id": "com.mrcrayfish.furniture:cfm:6.3.0@jar",
           "name": "MrCrayfish's Furniture Mod",
           "type": "ForgeMod",
