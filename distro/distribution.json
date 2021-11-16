@@ -372,7 +372,8 @@
             "size": 79452,
             "url": "https://raw.githubusercontent.com/karu70724/MCR-Launcher-R/master/distro/servers/Mercury-1.12.2/forgemods/required/OnlinePicFrame_v1.5.0-pre1_mc1.12.2.jar",
             "MD5": "f893cc9f646633a93af60e79dc295f96"
-          },
+          }
+        },
         {
           "id": "com.mrcrayfish:vehicle:0.44.1@jar",
           "name": "MrCrayfish's Vehicle Mod",
