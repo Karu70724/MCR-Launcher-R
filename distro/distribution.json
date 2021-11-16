@@ -375,6 +375,16 @@
           }
         },
         {
+          "id": "com.creativemd:creativecore:1.10@jar",
+          "name": "CreativeCore",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1318836,
+            "url": "https://github.com/Karu70724/Dev-H/tree/main/servers/Mercury-1.12.2/forgemods/required/CreativeCore_v1.10.68_mc1.12.2.jar",
+            "MD5": "d6b504f2ac29ea57549581f1777e443c"
+          }
+        },
+        {
           "id": "com.mrcrayfish:vehicle:0.44.1@jar",
           "name": "MrCrayfish's Vehicle Mod",
           "type": "ForgeMod",
