@@ -380,7 +380,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1318836,
-            "url": "https://github.com/Karu70724/Dev-H/tree/main/servers/Mercury-1.12.2/forgemods/required/CreativeCore_v1.10.68_mc1.12.2.jar",
+            "url": "https://raw.githubusercontent.com/karu70724/MCR-Launcher-R/master/distro/servers/Mercury-1.12.2/forgemods/required/CreativeCore_v1.10.68_mc1.12.2.jar",
             "MD5": "d6b504f2ac29ea57549581f1777e443c"
           }
         },
